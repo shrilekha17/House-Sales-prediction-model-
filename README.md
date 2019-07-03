@@ -1,4 +1,4 @@
-# House-Sales-prediction-model-
+# House sales price prediction model for Kings County, Washington
 
 
 House prices, unlike stock prices, appear to be predictable with some degree of accuracy. 
